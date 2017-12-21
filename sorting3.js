@@ -14,7 +14,7 @@ function draw()
 {
    
     background(250);
-    s = "This sketch demonstrate visual representation of Bubble sort algorithm; you can see how the bigger bubbles swap places with smaller ones, each time the loop executes. The sketch resets after you refresh the page.";
+    s = "This sketch demonstrate visual representation of a simple sort algorithm; you can see how the bigger bubbles swap places with smaller ones, each time the loop executes. The sketch resets after you refresh the page.";
     t = "array = [5,20,45,30,50,25,80,70,90,11,24,15,10,40,100] is the array used to represent the size of the bubbles in this skecth";
     textSize(15);
     noStroke();
